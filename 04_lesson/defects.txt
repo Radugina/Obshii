@@ -1,0 +1,3 @@
+test_string_utils.py::test_capitalize_positive[hello Moskow-Hello Moskow] FAILED
+
+Программа меняет первую букву на заглавную, но не понимает, что название города следом идет также с заглавной буквы
